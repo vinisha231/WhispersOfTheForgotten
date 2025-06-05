@@ -1,0 +1,22 @@
+body {
+    background-color: #111;
+    color: #eee;
+    font-family: 'Arial', sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #ff5555;
+}
+
+a {
+    color: #55ddff;
+}
+
+iframe {
+    max-width: 100%;
+    display: block;
+    margin: 20px 0;
+}
