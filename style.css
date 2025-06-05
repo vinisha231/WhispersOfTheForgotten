@@ -6,7 +6,7 @@ body {
     margin: auto;
     padding: 20px;
 }
-/* BIG SCARY TITLE */
+ 
 h1 {
     font-size: 60px;
     color: #ff0000; /* blood red */
@@ -16,7 +16,7 @@ h1 {
     margin-top: 40px;
 }
 
-/* FLICKER ANIMATION */
+ 
 @keyframes flicker {
     0%, 100% { opacity: 1; }
     97% { opacity: 0.1; }
