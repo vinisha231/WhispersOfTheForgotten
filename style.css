@@ -11,7 +11,7 @@ h1 {
     font-family: 'Creepster', cursive;
     font-size: 80px;
     color: #ff0000;
-    text-shadow: 0 0 5px #ff0000, 0 0 10px #ff3333, 0 0 20px #ff6666;
+    text-shadow: 0 0 5px #ff0000;
     animation: flicker 5s infinite;
     text-align: center;
     margin-top: 40px;
