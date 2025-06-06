@@ -12,7 +12,7 @@ h1 {
     font-size: 80px;
     color: #ff0000;
     text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000, 0 0 20px #ff0000;
-    animation: flicker 1.5s infinite;
+    animation: flicker 5.5s infinite;
     text-align: center;
     margin-top: 40px;
 }
