@@ -77,3 +77,8 @@ img {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
+
+section {
+    padding: 60px 0;
+    border-bottom: 1px solid #333;
+}
