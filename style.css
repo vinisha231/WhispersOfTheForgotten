@@ -44,3 +44,9 @@ iframe {
     display: block;
     margin: 20px 0;
 }
+.screenshot-fullwidth {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
